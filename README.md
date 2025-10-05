@@ -19,20 +19,28 @@ Designing scalable, high-performance APIs and microservices with:
 Building efficient, reliable data solutions using:  
 `PostgreSQL` · `MySQL` · `MongoDB`
 
+☁️ **Cloud & DevOps**  
+Deploying, scaling, and monitoring modern applications with:  
+`AWS` · `GCP` · `Docker` · `GitHub Actions` · `CI/CD Pipelines`
+
+🧠 **AI / Machine Learning**  
+Currently diving into **AI/ML** — exploring how deep learning, NLP, and generative models can enhance real-world applications.  
+Experimenting with:  
+`Python` · `TensorFlow` · `PyTorch` · `scikit-learn` · `LangChain` · `OpenAI APIs`
+
 🧩 **Full Stack Frameworks**  
 Developing complete web applications with:  
 `Django` · `Flask` · `Ruby on Rails`
-
-🤖 **Learning & Growth**  
-Currently exploring **AI/ML** — leveraging intelligent systems to make applications smarter, faster, and more adaptive.
 
 ---
 
 ## 💻 Tech Stack
 
-`Next.js` · `NestJS` · `Hono` · `React` · `React Native` · `React Query` · `React Router` · `React Hook Form`  
-`Semantic UI` · `Ruby` · `Rails` · `Python` · `GitHub Pages`  
-`AWS` · `Docker` · `CSS3` · `HTML5`
+`Next.js` · `NestJS` · `Hono` · `React` · `React Native` · `Redux Toolkit` · `React Query` · `React Router` · `React Hook Form`  
+`Ruby` · `Rails` · `Python` · `Django` · `Flask`  
+`PostgreSQL` · `MySQL` · `MongoDB`  
+`AWS` · `GCP` · `Docker` · `GitHub Pages`  
+`CSS3` · `HTML5`
 
 ---
 
@@ -42,5 +50,5 @@ Currently exploring **AI/ML** — leveraging intelligent systems to make applica
 ---
 
 ## 🌐 Let’s Connect
-I’m always open to collaborating on exciting projects, sharing ideas, and learning new technologies.  
+I’m always open to collaborating on exciting projects, exploring AI/ML innovations, and building cloud-powered solutions.  
 Let’s connect and create something extraordinary together! 🚀
